@@ -1,0 +1,40 @@
+.carousel .item{
+    height: 300px;
+    line-height: 9px;
+}
+.carousel-caption{
+	padding-bottom: 55px;
+}
+.container-fluid{
+	padding-left: 150px;
+	opacity: 0.7;
+}
+#icons{
+    padding: 20px;
+	border-radius: 80px;
+	font-size: 45px;
+	background-color: #dbe0df;
+	opacity: 0.8;
+	text-align: center;
+}
+.col-lg-4{
+	text-align: center;
+	margin-top: 35px;
+	font-size: 13px;
+	line-height: 5px;
+}
+img{
+     opacity: 0.5;
+    /* border:transparent;*/
+}
+footer{
+	background-color: #444746;
+	color: white;
+	margin-top: 90px;
+	padding-bottom: 35px;
+	padding-top: 20px;
+}
+footer p{
+	text-align: left;
+	font-size: 10px;
+}
